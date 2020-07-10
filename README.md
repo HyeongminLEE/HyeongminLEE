@@ -1,7 +1,7 @@
 ## Hyeongmin Lee
 
-I am an integrated M.S/Ph.D student of Electrical & Electronic Engineering, Yonsei University. My research interests include Artificial Intelligence, Computer Vision, Motion Estimation, and Computational Photography.
-To know more about me, please visit my [Personal Website](https://hyeongminlee.github.io/)
+I am an integrated M.S/Ph.D student of Electrical & Electronic Engineering, Yonsei University. My research interests include Artificial Intelligence, Computer Vision, Motion Estimation, and Computational Photography.  
+To know more about me, please visit my [Personal Website](https://hyeongminlee.github.io/)  
 Thank you :)
 
 ### Contact
@@ -17,5 +17,6 @@ Video Processing, Video Frame Interpolation, Image/Video Restoration
 Motion Estimation/Compensation, 3d Vision, Image/Video Super-Resolution
 Video Deblurring, Video Understanding, Video Object Segmentation
 
-Deep Learning, Generative Models, Self-Supervised Learning,
-Bayesian Deep Learning, Parallel Processing
+### Skill
+- Python, CUDA, Visual C/C++, Matlab
+- Pytorch, Tensorflow
