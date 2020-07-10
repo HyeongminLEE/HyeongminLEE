@@ -1,16 +1,21 @@
-### Hi there 👋
+## Hyeongmin Lee
 
-<!--
-**HyeongminLEE/HyeongminLEE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an integrated M.S/Ph.D student of Electrical & Electronic Engineering, Yonsei University. My research interests include Artificial Intelligence, Computer Vision, Motion Estimation, and Computational Photography.
+To know more about me, please visit my [Personal Website](https://hyeongminlee.github.io/)
+Thank you :)
 
-Here are some ideas to get you started:
+### Contact
+- Tel: +82-2-2123-7843
+- E-mail: minimonia@yonsei.ac.kr
+- Web: https://hyeongminlee.github.io
+- Github: https://github.com/HyeongminLEE
+- Slide Share: https://www.slideshare.net/HyeongminLee3/presentations
+- Youtube: https://www.youtube.com/channel/UCz14hRj69FfGsl7ftF0D3ig
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Research Interest
+Video Processing, Video Frame Interpolation, Image/Video Restoration
+Motion Estimation/Compensation, 3d Vision, Image/Video Super-Resolution
+Video Deblurring, Video Understanding, Video Object Segmentation
+
+Deep Learning, Generative Models, Self-Supervised Learning,
+Bayesian Deep Learning, Parallel Processing
