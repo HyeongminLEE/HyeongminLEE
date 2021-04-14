@@ -1,6 +1,6 @@
 ## Hyeongmin Lee
 
-I am an integrated M.S/Ph.D student of Electrical & Electronic Engineering, Yonsei University. My research interests include Artificial Intelligence, Computer Vision, Motion Estimation, and Computational Photography.  
+I am an integrated M.S/Ph.D student of Electrical & Electronic Engineering, Yonsei University. I’m interested in exploring the fundamental nature of Images & Videos and any technology for Editing & Enhancing them.  
 To know more about me, please visit my [Personal Website](https://hyeongminlee.github.io/)  
 Thank you :)
 
@@ -9,7 +9,6 @@ Thank you :)
 - E-mail: minimonia@yonsei.ac.kr
 - Web: https://hyeongminlee.github.io
 - Github: https://github.com/HyeongminLEE
-- Slide Share: https://www.slideshare.net/HyeongminLee3/presentations
 - Youtube: https://www.youtube.com/channel/UCz14hRj69FfGsl7ftF0D3ig
 
 ### Research Interest
