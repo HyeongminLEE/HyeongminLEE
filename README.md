@@ -12,9 +12,8 @@ Thank you :)
 - Youtube: https://www.youtube.com/channel/UCz14hRj69FfGsl7ftF0D3ig
 
 ### Research Interest
-Video Processing, Video Frame Interpolation, Image/Video Restoration
-Motion Estimation/Compensation, 3d Vision, Image/Video Super-Resolution
-Video Deblurring, Video Understanding, Video Object Segmentation
+Computer Vision & Deep Learning / Computational Photography / Video Processing & Editing / Video Enhancement
+Video Frame Interpolation / Video Stabilization / Image & Video Super-Resolution / Image & Video Compression
 
 ### Skill
 - Python, CUDA, Visual C/C++, Matlab
